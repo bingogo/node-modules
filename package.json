@@ -7,8 +7,8 @@
         
     },
     "devDependencies": {
-        "coffee-script": "1.3.x"
-		,"jasmine-node": ">=1.0.26"
+        "coffee-script": "1.3.x",
+        "jasmine-node": ">=1.0.26"
     },
     "main": "index",
     "bin": {
