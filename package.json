@@ -1,0 +1,21 @@
+{
+    "name": "node-modules",
+    "version": "0.1.0",
+    "description": "study for nodejs",
+    "author": "bingo",
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        "coffee-script": "1.3.x"
+    },
+    "main": "index",
+    "bin": {
+        
+    },
+    "scripts": {
+    },
+    "engines": {
+        "node": "0.6.x"
+    }
+}
